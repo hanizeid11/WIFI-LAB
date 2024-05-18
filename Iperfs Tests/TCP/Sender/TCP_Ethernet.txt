@@ -1,0 +1,392 @@
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50167 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec  69.5 MBytes   583 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   948 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.06 GBytes   912 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.06 GBytes   912 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50170 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   948 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   948 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   950 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50172 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50175 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50177 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50180 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50182 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50184 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   948 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50187 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50190 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50213 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec  51.0 MBytes   427 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   948 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.04 GBytes   897 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.04 GBytes   897 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50216 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50218 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50221 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50223 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50226 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   948 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50228 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50231 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50233 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 192.168.1.145, port 5201
+[  4] local 192.168.1.79 port 50236 connected to 192.168.1.145 port 5201
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-1.00   sec   113 MBytes   950 Mbits/sec                  
+[  4]   1.00-2.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   2.00-3.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   3.00-4.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   4.00-5.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   5.00-6.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   6.00-7.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   7.00-8.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   8.00-9.00   sec   113 MBytes   949 Mbits/sec                  
+[  4]   9.00-10.00  sec   113 MBytes   949 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  sender
+[  4]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+
+iperf Done.
+
+Statistics for sender bandwidths:
+Minimum Bandwidth: 897.0 Mbits/sec
+Maximum Bandwidth: 949.0 Mbits/sec
+Average Bandwidth: 944.55 Mbits/sec
+Standard Deviation: 13.911279028562626 Mbits/sec
+
+Statistics for receiver bandwidths:
+Minimum Bandwidth: 897.0 Mbits/sec
+Maximum Bandwidth: 949.0 Mbits/sec
+Average Bandwidth: 944.55 Mbits/sec
+Standard Deviation: 13.911279028562626 Mbits/sec

@@ -1,0 +1,192 @@
+-----------------------------------------------------------
+Server listening on 5201 (test #1)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50212
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50213
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec  51.2 MBytes   427 Mbits/sec
+[  5]   1.01-2.01   sec   114 MBytes   949 Mbits/sec
+[  5]   2.01-3.01   sec   113 MBytes   949 Mbits/sec
+[  5]   3.01-4.01   sec   113 MBytes   949 Mbits/sec
+[  5]   4.01-5.00   sec   113 MBytes   949 Mbits/sec
+[  5]   5.00-6.01   sec   114 MBytes   948 Mbits/sec
+[  5]   6.01-7.01   sec   112 MBytes   950 Mbits/sec
+[  5]   7.01-8.01   sec   114 MBytes   949 Mbits/sec
+[  5]   8.01-9.01   sec   112 MBytes   949 Mbits/sec
+[  5]   9.01-10.00  sec   112 MBytes   949 Mbits/sec
+[  5]  10.00-10.00  sec   384 KBytes  1.15 Gbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.04 GBytes   896 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #2)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50215
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50216
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   114 MBytes   948 Mbits/sec
+[  5]   1.00-2.01   sec   113 MBytes   949 Mbits/sec
+[  5]   2.01-3.01   sec   114 MBytes   949 Mbits/sec
+[  5]   3.01-4.01   sec   112 MBytes   948 Mbits/sec
+[  5]   4.01-5.01   sec   114 MBytes   949 Mbits/sec
+[  5]   5.01-6.01   sec   112 MBytes   948 Mbits/sec
+[  5]   6.01-7.01   sec   114 MBytes   949 Mbits/sec
+[  5]   7.01-8.01   sec   112 MBytes   949 Mbits/sec
+[  5]   8.01-9.00   sec   112 MBytes   950 Mbits/sec
+[  5]   9.00-10.00  sec   113 MBytes   949 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #3)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50217
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50218
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec   114 MBytes   947 Mbits/sec
+[  5]   1.01-2.02   sec   114 MBytes   949 Mbits/sec
+[  5]   2.02-3.01   sec   113 MBytes   949 Mbits/sec
+[  5]   3.01-4.00   sec   112 MBytes   949 Mbits/sec
+[  5]   4.00-5.00   sec   113 MBytes   949 Mbits/sec
+[  5]   5.00-6.01   sec   114 MBytes   949 Mbits/sec
+[  5]   6.01-7.00   sec   112 MBytes   950 Mbits/sec
+[  5]   7.00-8.01   sec   114 MBytes   949 Mbits/sec
+[  5]   8.01-9.00   sec   112 MBytes   949 Mbits/sec
+[  5]   9.00-10.00  sec   113 MBytes   949 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #4)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50220
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50221
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   113 MBytes   946 Mbits/sec
+[  5]   1.00-2.00   sec   113 MBytes   950 Mbits/sec
+[  5]   2.00-3.00   sec   113 MBytes   949 Mbits/sec
+[  5]   3.00-4.01   sec   114 MBytes   949 Mbits/sec
+[  5]   4.01-5.01   sec   114 MBytes   949 Mbits/sec
+[  5]   5.01-6.00   sec   112 MBytes   949 Mbits/sec
+[  5]   6.00-7.01   sec   114 MBytes   949 Mbits/sec
+[  5]   7.01-8.02   sec   114 MBytes   949 Mbits/sec
+[  5]   8.02-9.01   sec   113 MBytes   950 Mbits/sec
+[  5]   9.01-10.00  sec   112 MBytes   949 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #5)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50222
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50223
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec   114 MBytes   947 Mbits/sec
+[  5]   1.01-2.01   sec   113 MBytes   950 Mbits/sec
+[  5]   2.01-3.01   sec   113 MBytes   948 Mbits/sec
+[  5]   3.01-4.01   sec   113 MBytes   949 Mbits/sec
+[  5]   4.01-5.01   sec   113 MBytes   949 Mbits/sec
+[  5]   5.01-6.01   sec   114 MBytes   949 Mbits/sec
+[  5]   6.01-7.01   sec   113 MBytes   948 Mbits/sec
+[  5]   7.01-8.01   sec   113 MBytes   949 Mbits/sec
+[  5]   8.01-9.01   sec   112 MBytes   949 Mbits/sec
+[  5]   9.01-10.00  sec   113 MBytes   950 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #6)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50225
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50226
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   113 MBytes   947 Mbits/sec
+[  5]   1.00-2.02   sec   115 MBytes   950 Mbits/sec
+[  5]   2.02-3.01   sec   113 MBytes   948 Mbits/sec
+[  5]   3.01-4.00   sec   112 MBytes   950 Mbits/sec
+[  5]   4.00-5.00   sec   113 MBytes   949 Mbits/sec
+[  5]   5.00-6.00   sec   113 MBytes   950 Mbits/sec
+[  5]   6.00-7.01   sec   114 MBytes   949 Mbits/sec
+[  5]   7.01-8.01   sec   113 MBytes   948 Mbits/sec
+[  5]   8.01-9.00   sec   112 MBytes   950 Mbits/sec
+[  5]   9.00-10.00  sec   113 MBytes   949 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #7)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50227
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50228
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   113 MBytes   947 Mbits/sec
+[  5]   1.00-2.01   sec   114 MBytes   950 Mbits/sec
+[  5]   2.01-3.01   sec   114 MBytes   948 Mbits/sec
+[  5]   3.01-4.01   sec   113 MBytes   950 Mbits/sec
+[  5]   4.01-5.01   sec   113 MBytes   948 Mbits/sec
+[  5]   5.01-6.01   sec   113 MBytes   950 Mbits/sec
+[  5]   6.01-7.01   sec   114 MBytes   950 Mbits/sec
+[  5]   7.01-8.01   sec   113 MBytes   949 Mbits/sec
+[  5]   8.01-9.01   sec   113 MBytes   949 Mbits/sec
+[  5]   9.01-10.00  sec   113 MBytes   949 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #8)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50230
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50231
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.00   sec   113 MBytes   948 Mbits/sec
+[  5]   1.00-2.00   sec   113 MBytes   948 Mbits/sec
+[  5]   2.00-3.01   sec   114 MBytes   949 Mbits/sec
+[  5]   3.01-4.00   sec   112 MBytes   949 Mbits/sec
+[  5]   4.00-5.01   sec   114 MBytes   950 Mbits/sec
+[  5]   5.01-6.01   sec   113 MBytes   949 Mbits/sec
+[  5]   6.01-7.01   sec   113 MBytes   949 Mbits/sec
+[  5]   7.01-8.01   sec   113 MBytes   949 Mbits/sec
+[  5]   8.01-9.02   sec   114 MBytes   948 Mbits/sec
+[  5]   9.02-10.00  sec   112 MBytes   950 Mbits/sec
+[  5]  10.00-10.00  sec   384 KBytes  1.03 Gbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.11 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #9)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50232
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50233
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec   114 MBytes   947 Mbits/sec
+[  5]   1.01-2.01   sec   113 MBytes   949 Mbits/sec
+[  5]   2.01-3.01   sec   114 MBytes   950 Mbits/sec
+[  5]   3.01-4.01   sec   113 MBytes   948 Mbits/sec
+[  5]   4.01-5.01   sec   113 MBytes   949 Mbits/sec
+[  5]   5.01-6.01   sec   113 MBytes   949 Mbits/sec
+[  5]   6.01-7.01   sec   113 MBytes   949 Mbits/sec
+[  5]   7.01-8.00   sec   113 MBytes   949 Mbits/sec
+[  5]   8.00-9.01   sec   113 MBytes   949 Mbits/sec
+[  5]   9.01-10.00  sec   113 MBytes   950 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
+-----------------------------------------------------------
+Server listening on 5201 (test #10)
+-----------------------------------------------------------
+Accepted connection from 192.168.1.79, port 50235
+[  5] local 192.168.1.145 port 5201 connected to 192.168.1.79 port 50236
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-1.01   sec   114 MBytes   948 Mbits/sec
+[  5]   1.01-2.01   sec   113 MBytes   949 Mbits/sec
+[  5]   2.01-3.01   sec   114 MBytes   950 Mbits/sec
+[  5]   3.01-4.01   sec   112 MBytes   949 Mbits/sec
+[  5]   4.01-5.00   sec   113 MBytes   949 Mbits/sec
+[  5]   5.00-6.00   sec   113 MBytes   950 Mbits/sec
+[  5]   6.00-7.01   sec   113 MBytes   949 Mbits/sec
+[  5]   7.01-8.01   sec   113 MBytes   948 Mbits/sec
+[  5]   8.01-9.00   sec   112 MBytes   949 Mbits/sec
+[  5]   9.00-10.00  sec   114 MBytes   950 Mbits/sec
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate
+[  5]   0.00-10.00  sec  1.10 GBytes   949 Mbits/sec                  receiver
