@@ -41,7 +41,7 @@ This folder holds the raw data files from the Iperf tests. The data is organized
 - **UDP 50 Mbits/sec Data:** `UDP50/`
   - `sender/`
   - `receiver/`
-  - **UDP 100 Mbits/sec Data:** `UDP100/`
+- **UDP 100 Mbits/sec Data:** `UDP100/`
   - `sender/`
   - `receiver/`
 
