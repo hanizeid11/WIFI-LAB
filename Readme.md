@@ -15,6 +15,7 @@ This folder contains bash scripts to run Iperf tests for different scenarios. Th
 - **TCP Test:** `TCP_Test.bat`
 - **UDP Test:** `UDP_Test.bat`
 - **UDP 50 Mbits/sec Test:** `UDP50_Test.bat`
+- **UDP 100 Mbits/sec Test:** `UDP100_Test.bat`
 
 Each script is designed to initiate Iperf tests for the specified protocol and settings. The tests measure the performance of the network, capturing data for both the sender and receiver.
 
@@ -24,7 +25,6 @@ This folder contains Python scripts that extract statistics from the Iperf test 
 
 - **Extract TCP Statistics:** `TCP_Statistics.py`
 - **Extract UDP Statistics:** `UDP_Statistics.py`
-- **Extract UDP 50 Mbits/sec Statistics:** `UDP_Statistics - Receiver.py`
 
 These scripts parse the output data from the Iperf tests and extract relevant metrics for analysis.
 
@@ -41,4 +41,8 @@ This folder holds the raw data files from the Iperf tests. The data is organized
 - **UDP 50 Mbits/sec Data:** `UDP50/`
   - `sender/`
   - `receiver/`
+  - **UDP 100 Mbits/sec Data:** `UDP100/`
+  - `sender/`
+  - `receiver/`
+
 
